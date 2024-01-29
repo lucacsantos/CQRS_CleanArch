@@ -1,4 +1,4 @@
 # CQRS
 
-### Estudando e praticando sobre CQRS com CleanrArch
+### Estudando e praticando sobre CQRS com CleanrArch.
 
